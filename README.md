@@ -1,1 +1,2 @@
-# app-final
+# final-shopping
+shopping cart app
